@@ -6,6 +6,9 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true, // If you want to skip linting during builds
   }, 
+  experimental: {
+    forceSwcTransforms: true,
+  },
   transpilePackages: [
     "@ant-design",
     "@rc-component",
