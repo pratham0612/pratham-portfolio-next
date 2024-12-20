@@ -11,8 +11,9 @@ const Banner = () => {
             <div className="flex items-center md:items-center md:justify-around">
               <div className="">
                 <div className="">
-                  <h1 className="text-3xl sm:text-4xl xl:text-5xl text-Snow font-bold">
-                     Prtham Panchal
+                  
+                 <h1 className="text-3xl sm:text-4xl xl:text-5xl text-Snow font-bold">
+                     Pratham Panchal
                   </h1>
                 </div>
                 <div className="">
