@@ -13,7 +13,8 @@ const Contact = () => {
         </span>
       </div>
       <div className='flex flex-col'>
-        <span className='text-Snow text-xs font-bold'>
+        <span className='text-Snow text-xs font-bold'>Contact</span>
+        <span className='text-xs text-gray-600'>
         <Link href={`tel:${CONTACTS.PHONE}`}>{CONTACTS.PHONE}</Link>
           </span>
       </div>

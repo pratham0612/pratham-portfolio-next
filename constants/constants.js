@@ -4,8 +4,8 @@ export const DESIGNATION = `Full Stack Developer | Open Source Contributor `;
 
 export const DETAILS = {
   Residence: "Canada",
-  City: "Toronto",
-  Age: "21",
+  City: "Oshawa",
+  Age: "22",
 };
 
 export const SKILLS = [

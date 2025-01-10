@@ -17,7 +17,7 @@ const Banner = () => {
                   </h1>
                 </div>
                 <div className="">
-                  <div className=" py-4 font-cascadia-normal text-Snow pb-4 text-xs h-20 lg:h-auto">
+                  <div className=" py-4 font-AnonymousPro-normal text-Snow pb-4 text-xs h-20 lg:h-auto">
                     <span>
                       {"<"}
                       <span className="text-Green sm:text-base xl:text-lg font-bold">
@@ -31,8 +31,9 @@ const Banner = () => {
                           <Typewriter
                             options={{
                               strings: [
-                                "MERN Stack Developer",
+                                "Full Stack Developer",
                                 "NexJs Developer",
+                                "Graphic Designer",
                               ],
                               autoStart: true,
                               loop: true,

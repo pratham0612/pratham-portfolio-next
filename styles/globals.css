@@ -47,6 +47,25 @@ body {
       src: url(/public/fonts/Circular-Bold.otf);
     }
   }
+
+  @font-face {
+    font-family: 'AnonymousPro-normal';
+    src: url(/public/fonts/AnonymousPro-Regular.ttf);
+  }
+  @font-face {
+    font-family: 'AnonymousPro-italic';
+    src: url(/public/fonts/AnonymousPro-Italic.otf);
+  }
+  @font-face {
+    font-family: 'AnonymousPro-bolditalic';
+    src: url(/public/fonts/AnonymousPro-BoldItalic.otf);
+  }
+  @font-face {
+    font-family: 'AnonymousPro-bold';
+    src: url(/public/fonts/AnonymousPro-Bold.otf);
+  }
+}
+
     @variants responsive {
       /* Hide scrollbar for Chrome, Safari and Opera */
       .no-scrollbar::-webkit-scrollbar {
@@ -101,7 +120,7 @@ body {
           transform: scale(1);
         }
       }
-  }
+  
   /* antd css */
   .ant-progress-text{
     color:white !important
