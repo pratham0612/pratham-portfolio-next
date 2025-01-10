@@ -10,8 +10,8 @@ export const DETAILS = {
 
 export const SKILLS = [
   {
-    title: "MERN Stack Developer",
-    level: "75%",
+    title: "Front Stack Developer",
+    level: "85%",
   },
   {
     title: "React Developer",
@@ -40,7 +40,7 @@ export const TECH_STACK = [
   "REST API", 
   "Git",
   "GitHub", 
-  "Figma", 
+  "Graphic Design", 
 ];
 
 export const CONTACTS = {
