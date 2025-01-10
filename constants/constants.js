@@ -1,6 +1,6 @@
 export const NAME = "Pratham Panchal";
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor `;
+export const DESIGNATION = `Full Stack Developer | Open Source Contributor `;
 
 export const DETAILS = {
   Residence: "Canada",
