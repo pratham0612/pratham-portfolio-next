@@ -44,7 +44,7 @@ export const TECH_STACK = [
 
 export const CONTACTS = {
   EMAIL: "prathampanchal1122@gmail.com",
-  PHONE: "+14377999612",
+  PHONE: "+1-437-799-9612",
 };
 export const SOCIAL_LINKS = {
   GITHUB: "https://github.com/pratham0612",

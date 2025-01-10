@@ -13,12 +13,13 @@ const Contact = () => {
         </span>
       </div>
       <div className='flex flex-col'>
-        <span className='text-Snow text-xs font-bold'>Phone</span>
+        <span className='text-Snow text-xs font-bold'>
         <Link href={`tel:${CONTACTS.PHONE}`}>{CONTACTS.PHONE}</Link>
           </span>
       </div>
-    </div>
+      </div>
   );
 };
 
 export default Contact;
+ 

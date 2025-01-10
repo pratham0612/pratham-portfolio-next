@@ -22,7 +22,9 @@ const Footer = () => {
           <div className="mr-1 text-base">
             <MdMail />
           </div>
-          <div> prathampanchal1122@gmail.com</div>
+          <a href="mailto:prathampanchal1122@gmail.com" className="text-LightGray">
+            prathampanchal1122@gmail.com
+          </a>
         </div>
       </div>
     </div>
