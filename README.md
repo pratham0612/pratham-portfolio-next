@@ -18,7 +18,7 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Pratham Portfolio Desktop Demo](.public/portfolio.png "Desktop Demo")
+![Pratham Portfolio Desktop Demo](./public/portfolio.png "Desktop Demo")
 
 ### Prerequisites
 
