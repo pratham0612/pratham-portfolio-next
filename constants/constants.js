@@ -29,7 +29,6 @@ export const TECH_STACK = [
   "NextJS",
   "TypeScript",
   "NodeJS",
-  "Redux",
   "Postgres SQL",
   "CSS",
   "SCSS",
