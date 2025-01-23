@@ -8,6 +8,15 @@ export const DETAILS = {
   Age: "22",
 };
 
+export const CONTACTS = {
+  EMAIL: "prathampanchal1122@gmail.com",
+  PHONE: "+1-437-799-9612",
+};
+export const SOCIAL_LINKS = {
+  GITHUB: "https://github.com/pratham0612",
+  LINKEDIN: "https://www.linkedin.com/in/prathampanchal0612/",
+};
+
 export const SKILLS = [
   {
     title: "Front Stack Developer",
@@ -42,11 +51,3 @@ export const TECH_STACK = [
   "Graphic Design", 
 ];
 
-export const CONTACTS = {
-  EMAIL: "prathampanchal1122@gmail.com",
-  PHONE: "+1-437-799-9612",
-};
-export const SOCIAL_LINKS = {
-  GITHUB: "https://github.com/pratham0612",
-  LINKEDIN: "https://www.linkedin.com/in/prathampanchal0612/",
-};

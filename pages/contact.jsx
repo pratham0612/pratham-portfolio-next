@@ -54,7 +54,7 @@ const Contact = () => {
         <div className="h-16 w-full card_stylings text-xl sm:text-3xl flex gap-x-8 sm:gap-x-16 items-center justify-center text-Snow">
           <a
             className="hover:scale-125 ease-in-out duration-700"
-            href=""
+            href="mailto:prathampanchal1122@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -158,7 +158,7 @@ const Contact = () => {
           <a
             className="underline text-Snow"
             target="_blank"
-            href="https://github.com/Prathamjavaid/portfolio"
+            href="https://github.com/pratham0612"
           >
             Be the one to integrate this!
           </a>
