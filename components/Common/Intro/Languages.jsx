@@ -26,19 +26,21 @@ const SkillsAndCompetencies = () => {
         <div className="flex flex-col space-y-1 pt-6">
             <div className="flex flex-col gap-y-4">
                 <span className='text-Snow text-xs font-bold'>Skills and Competencies</span>
-                <div className="flex flex-row items-center justify-between gap-4 flex-wrap">
-                    <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#DFAC1F" type="circle" percent={frontend} size={50} />
-                        <span className='text-xs font-bold text-Snow'>Front-End</span>
+                <div className="skills-container">
+                    <div className="skill-item">
+                        <Progress strokeColor="#953fe1" type="circle" percent={frontend} size={48} />
+                        <span className='text-xs font-bold text-Snow skill-text'>Front-End </span>
                     </div>
-                    <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#DFAC1F" type="circle" percent={react} size={50} />
-                        <span className='text-xs font-bold text-Snow'>React</span>
+                    <div className="skill-item">
+                        <Progress strokeColor="#953fe1" type="circle" percent={graphicDesign} size={48} />
+                        <span className='text-xs font-bold text-Snow skill-text'>Graphic Design</span>
                     </div>
-                    <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#DFAC1F" type="circle" percent={graphicDesign} size={50} />
-                        <span className='text-xs font-bold text-Snow'>Graphic Design</span>
+                    
+                    <div className="skill-item">
+                        <Progress strokeColor="#953fe1" type="circle" percent={react} size={48} />
+                        <span className='text-xs font-bold text-Snow skill-text'>React </span>
                     </div>
+                    
                 </div>
             </div>
         </div>

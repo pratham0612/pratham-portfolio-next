@@ -10,6 +10,7 @@ export const DETAILS = {
 
 export const CONTACTS = {
   EMAIL: "prathampanchal1122@gmail.com",
+  
   PHONE: "+1-437-799-9612",
 };
 export const SOCIAL_LINKS = {
@@ -38,14 +39,12 @@ export const TECH_STACK = [
   "NextJS",
   "TypeScript",
   "NodeJS",
-  "Postgres SQL",
+  "MySQL",
   "CSS",
   "SCSS",
   "TailwindCSS",
-  "Ant Design",
   "Material UI",
   "Next UI",
-  "REST API", 
   "Git",
   "GitHub", 
   "Graphic Design", 
